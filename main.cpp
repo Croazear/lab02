@@ -1,6 +1,12 @@
+Copyright by Hubert
+#include <iostream>
 <<<<<<< HEAD
-//program ktory wyswitla wiadomosc
-Copyright by
+// Cały program, który niewiele co robi ...
 =======
-Witaj  WIOSNO :D
->>>>>>> witaj
+/// @brief Główna funkcja programu, wyświetla fajny komunikat ...
+///
+/// @return zawsze zwraca wartość 0.
+>>>>>>> doc
+int main() {    
+std::cout<<"Witaj wiosno!!! Dobrze, że jesteś :)"<<std::endl;
+    return 0;}
